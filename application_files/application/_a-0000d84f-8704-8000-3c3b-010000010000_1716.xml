@@ -25,6 +25,8 @@
                         <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple</uuid>
                         <uuid>{UserDirectory}UserDirectoryEntry</uuid>
                     <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple.xsd</uuid>
+                    <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple - Copy.xsd</uuid>
+                        <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple2.xsd</uuid>
                     </uuids>
                 </item>
                 <item>
