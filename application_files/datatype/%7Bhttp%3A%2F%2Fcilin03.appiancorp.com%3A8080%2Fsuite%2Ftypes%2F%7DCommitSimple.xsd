@@ -22,7 +22,8 @@
       <xsd:element name="featureOwner" nillable="true" type="xsd:int"/>
       <xsd:element name="version" nillable="true" type="xsd:int"/>
 	        <xsd:element name="version2" nillable="true" type="xsd:int"/>
+          <xsd:element name="version3" nillable="true" type="xsd:int"/>
 
     </xsd:sequence>
   </xsd:complexType>
-</xsd:schema> 
+</xsd:schema>
