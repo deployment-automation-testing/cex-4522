@@ -29,6 +29,8 @@
                         <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple2.xsd</uuid>
                     <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple - Copy.</uuid>
                         <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple2.</uuid>
+                    <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple - Copy</uuid>
+                        <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple2</uuid>
                     </uuids>
                 </item>
                 <item>
@@ -317,4 +319,4 @@
             </role>
         </contentRoleMap>
     </roleMap>
-</applicationHaul>
+</applicationHaul> 
