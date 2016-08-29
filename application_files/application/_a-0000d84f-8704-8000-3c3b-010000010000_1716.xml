@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
+<?xml version="1.0" encoding="UTF-8"?><applicationHaul xmlns:a="http://www.appian.com/ae/types/2009">
     <application>
         <name>Dynamic Sail Components</name>
         <uuid>_a-0000d84f-8704-8000-3c3b-010000010000_1716</uuid>
@@ -24,6 +23,7 @@
                     <uuids>
                         <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple</uuid>
                         <uuid>{UserDirectory}UserDirectoryEntry</uuid>
+                    <uuid>{http://cilin03.appiancorp.com:8080/suite/types/}CommitSimple.xsd</uuid>
                     </uuids>
                 </item>
                 <item>
